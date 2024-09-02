@@ -10,6 +10,6 @@ This project is a simple form validation application using HTML, CSS, and JavaSc
 
 ## Sceenshots
 ![Screen](images/screenshot_1.png)
-![Screen](imgaes/screenshot_2.png)
+![Screen](images/screenshot_2.png)
 ![Screen](imgaes/screenshot_3.png)
 ![Screen](imgaes/screenshot_4.png)
