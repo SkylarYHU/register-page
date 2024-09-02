@@ -9,7 +9,7 @@ This project is a simple form validation application using HTML, CSS, and JavaSc
 - Password Match Check: Confirms that the password and confirm password fields match.
 
 ## Sceenshots
-![Screen](screenshots/screenshot_1.png)
-![Screen](screenshots/screenshot_2.png)
-![Screen](screenshots/screenshot_3.png)
-![Screen](screenshots/screenshot_4.png)
+![Screen](images/screenshot_1.png)
+![Screen](imgaes/screenshot_2.png)
+![Screen](imgaes/screenshot_3.png)
+![Screen](imgaes/screenshot_4.png)
